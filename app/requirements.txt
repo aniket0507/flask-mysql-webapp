@@ -1,0 +1,7 @@
+flask==1.1.2
+pip==20.2.1
+flask-sqlalchemy
+mysqlclient=1.4.6-cp38-cp38-win32
+flask-mail
+
+
